@@ -69,6 +69,7 @@ print(s)
 
 ## String Methods
 
+
 print("String Methods" + ' *' * 10)
 
 string1 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
